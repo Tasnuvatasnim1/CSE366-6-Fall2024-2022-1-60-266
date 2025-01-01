@@ -16,6 +16,7 @@ pip install pygame numpy
 
 ## Project Structure
 
+- **`agent.py`**: Defines a Student class that represents individual students in the scheduling optimization process.
 - **`environment.py`**: Defines the environment and the classes available.
 - **`run.py`**: Main script to run the scheduler.
 
