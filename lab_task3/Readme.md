@@ -18,7 +18,6 @@ pip install pygame numpy
 
 - **`environment.py`**: Defines the environment and the classes available.
 - **`run.py`**: Main script to run the scheduler.
-- **`fitness_trends.log`**: Logs the best fitness score for each generation.
 
 ## Running the Code
 
@@ -37,8 +36,6 @@ pip install pygame numpy
   - A grid showing the current generation's best schedule.
   - Stats including generation number and best fitness score for the generation.
 
-- **Log File**:
-  - The `fitness_trends.log` file will contain the best fitness score for each generation.
 
 ## Customization
 
